@@ -2,7 +2,6 @@
   "name": "fm-newslettersignup-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dagime-teshome.github.io/newsLetterSubProject/",
   "dependencies": {
     "@headlessui/react": "^1.7.17",
     "@testing-library/jest-dom": "^5.17.0",
@@ -20,8 +19,6 @@
     "yup": "^1.3.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
